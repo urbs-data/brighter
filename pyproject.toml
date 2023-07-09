@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "brighter"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple library for data-wrangling with GCP support"
 authors = []
 license = "MIT"
